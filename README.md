@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudentHub
 
 A simple student information website built with Nuxt and Tailwind CSS. It demonstrates reusable components and props: the same header, footer, cards, and buttons are written once and used on multiple pages.
@@ -76,3 +77,6 @@ Components in `app/components/` are auto-imported by Nuxt, so they can be used i
 ```
 
 The same component can show different content or colors depending on the props it receives. Changing a component file updates every page that uses it.
+=======
+# LIM-Activity-2-Reusable-Components
+>>>>>>> d3dca6fc08bd27695ed68efbc34d49f0df504bef
